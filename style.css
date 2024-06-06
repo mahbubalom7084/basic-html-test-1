@@ -1,0 +1,18 @@
+h1 {
+    background-color: green;
+    text-align: center;
+}
+
+h3 {
+    text-align: right;
+    color: blue;
+}
+a{
+    font-size: 70px;
+    background-color: rgb(10, 13, 14);
+    color: rgb(231, 8, 8);
+}
+ul{
+    margin:0px;
+    padding: 0px;
+}
